@@ -1,2 +1,3 @@
+# Porpiedad en archivo .yml
 contexto:
-    yaml1Dato: Dato de la contexto.prop1Dato desde GitHub (.yml)
+    yaml1Dato: Dato de la contexto.yaml1Dato desde GitHub (.yml)
